@@ -1,0 +1,4 @@
+text_classification/datasets
+text_classification/tokenizers
+text_classification/.ipynb_checkpoints/
+.DS_Store
